@@ -17,4 +17,5 @@ Automação:
 e API Token na classe "TrelloAPITeste".
 
 Você pode obter sua chave de API fazendo login no Trello e visitando https://trello.com/app-key 
+
 Documentação utilizada para desenvolver o projeto: https://developer.atlassian.com/cloud/trello/guides/rest-api/api-introduction/
