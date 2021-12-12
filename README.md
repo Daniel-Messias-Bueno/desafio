@@ -13,7 +13,7 @@ Automação:
 - Linguagem: Java
 - Frameworks: Junit e RestAssured
 - Projeto Maven
-- Para execução do teste será necessário informar o API Key e API Token na classe a classe(src/test/java/TrelloAPITest - "TrelloAPITeste.java") e executar.
+- Para execução do teste será necessário informar o API Key e API Token na classe (src/test/java/TrelloAPITest - "TrelloAPITeste.java") e executar.
 
 Você pode obter sua chave de API fazendo login no Trello e visitando https://trello.com/app-key 
 
