@@ -11,9 +11,8 @@ Collection Postman: Trello_API.postman_collection.json
 Automação:
 
 - Linguagem: Java
-
 - Frameworks: Junit e RestAssured
-
+- Projeto Maven
 - Para execução do teste será necessário informar o API Key 
 e API Token na classe "TrelloAPITeste".
 
